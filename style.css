@@ -1,0 +1,57 @@
+.info-header {
+	color: 0000000;
+	background-color: #ffffff;
+	margin-top: 10px;
+	padding: 50px 20px 50px 20px;
+	font-size:  20
+	font-weight: 40
+	font-family: "Arial";
+}
+p.solid {border-style: solid;}
+
+h1 {
+	font-size: 12px;
+
+}
+
+h2 {
+	font-size: 15px
+}
+
+h3 {
+	font-size: 15px
+}
+
+.img-center {
+	display: block;
+	margin: 0 auto;
+}
+
+.icon-spacing {
+	display: block;
+	margin: auto 0;
+}
+
+
+
+/*body {
+	font-family: 'Arial';
+}
+
+#title1{
+	color: red;
+
+}
+
+.basic-par{
+	font-family:'Times New Roman';
+}
+.small-header {
+	font-size: 20px;
+}
+.blue .basic-par {
+	color: blue;
+}
+.big-letters {
+		font-size: 40px !important;
+}*/
